@@ -1,0 +1,2 @@
+Off-Premises-Asset-Management-using-IoT-Edge
+Intense global competition and Industry 4.0 drives industries to pursue highly efficient and effective means to increase productivity of their assets and management of the assets using AI and ML. • These highly valuable assets need to be maintained at regular intervals to ensure greater productivity. Thus this Django website implements the concept of predictive maintenance in Industries.
